@@ -1,0 +1,8 @@
+name: Role 2
+description: Bla bla bla
+variables:
+  - name: var_3
+    type: string
+
+  - name: var_4
+    type: string

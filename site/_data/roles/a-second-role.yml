@@ -1,0 +1,6 @@
+---
+name: a-second-role
+description: TBD
+variables:
+- name: variable_boolean
+  type: boolean

@@ -1,0 +1,8 @@
+---
+name: my-role
+description: TBD
+variables:
+- name: variable_1
+  type: string
+- name: variable_2
+  type: int
